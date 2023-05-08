@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Productos_fa fa-search gray</name>
+   <tag></tag>
+   <elementGuidId>60d7ad28-bcd3-47b5-9e56-36821e5dfae1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='productos']/div/div/a/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search.gray</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>95dc8d26-2489-4990-97de-c626c219e849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search gray</value>
+      <webElementGuid>99d34a58-52b5-4452-9024-06cffca4a4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productos&quot;)/div[@class=&quot;container text-center mb-60&quot;]/div[@class=&quot;input-group mb-3 col-xs-6 col-sm-10 col-md-10 mx-auto&quot;]/a[1]/span[@class=&quot;icon&quot;]/i[@class=&quot;fa fa-search gray&quot;]</value>
+      <webElementGuid>7c95b50b-253d-456d-9907-38821352e7ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='productos']/div/div/a/span/i</value>
+      <webElementGuid>58710ebe-9114-462f-9e76-63363eb93c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>4835aaa4-fbcb-4825-a09e-ffd1944b9a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

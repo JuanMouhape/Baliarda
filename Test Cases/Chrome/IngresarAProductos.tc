@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarAProductos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c96b2ef-ce80-4c1a-8724-2871f9ed7202</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e69cbd63-8e5c-430a-a0d8-5ce82bbc0d19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Listado de Productos'</defaultValue>
+      <description></description>
+      <id>e69cbd63-8e5c-430a-a0d8-5ce82bbc0d19</id>
+      <masked>false</masked>
+      <name>textoListadoProductos</name>
+   </variable>
+</TestCaseEntity>

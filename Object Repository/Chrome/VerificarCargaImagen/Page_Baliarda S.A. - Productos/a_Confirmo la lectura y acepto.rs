@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Confirmo la lectura y acepto</name>
+   <tag></tag>
+   <elementGuidId>f35fc4c1-e9ac-454a-9349-1c5e509c7e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tycCheck']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tycCheck</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2fa56faf-05af-4f96-ba3d-d8405d146f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-contact-submit btn btn-lg btn-verde</value>
+      <webElementGuid>3d32cf4a-1724-46c7-9ead-73bab5b0441a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69976a9b-edef-4ad8-b87e-3cbee0b2aeb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tycCheck</value>
+      <webElementGuid>d15a253f-20cb-4be0-8ad9-25fc92ee65ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tycCheck</value>
+      <webElementGuid>f0fb1d9a-c5d4-4d8e-9725-1cca326c00d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5cb0473e-ece5-4179-800f-42a9770b3b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Confirmo la lectura y acepto
+                    </value>
+      <webElementGuid>d44fc538-625a-47a2-97e0-6a6506062bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tycCheck&quot;)</value>
+      <webElementGuid>c1231a3d-06ce-4a72-991a-e6ceb399447e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='tycCheck']</value>
+      <webElementGuid>0aa4c943-0c4a-4bed-8f10-a10bd6b54332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tycModal']/div/div/div[3]/div/a</value>
+      <webElementGuid>4d1ea9b3-a991-4cef-b6d5-e221fc246173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Confirmo la lectura y acepto')]</value>
+      <webElementGuid>d481f83d-390e-4544-8a52-25bdc5a8b106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::a[1]</value>
+      <webElementGuid>3ba0aac8-ce5c-4dcd-aa8a-4f82b659b55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importante'])[1]/following::a[1]</value>
+      <webElementGuid>4edad761-070e-468f-a50e-737fbb557adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Productos'])[1]/preceding::a[1]</value>
+      <webElementGuid>6144bf87-b86b-4941-80fc-7447dc1c0bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POR LÍNEA TERAPÉUTICA'])[1]/preceding::a[1]</value>
+      <webElementGuid>e17bf6c1-852f-4080-8584-39d9d972a393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirmo la lectura y acepto']/parent::*</value>
+      <webElementGuid>eaeccdc5-b128-4410-9e68-512503bd933f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>f8e0d00e-1615-4414-92a9-587e8e689225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>ee38317e-c9c5-4232-ac30-0824e5afc5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = 'button' and @id = 'tycCheck' and @name = 'tycCheck' and @href = '#' and (text() = '
+                        Confirmo la lectura y acepto
+                    ' or . = '
+                        Confirmo la lectura y acepto
+                    ')]</value>
+      <webElementGuid>41a3aaf6-49e4-4c15-8387-af5de2141949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

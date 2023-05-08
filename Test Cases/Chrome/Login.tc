@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc78393d-cafd-458a-8504-adfb0cc75d0f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2a67a8e-2847-4b82-961d-28582beb658e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Administración del Sitio Web'</defaultValue>
+      <description></description>
+      <id>f2a67a8e-2847-4b82-961d-28582beb658e</id>
+      <masked>false</masked>
+      <name>textoLogin</name>
+   </variable>
+</TestCaseEntity>
