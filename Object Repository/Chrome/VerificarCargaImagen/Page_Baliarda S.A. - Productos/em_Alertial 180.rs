@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>em</value>
-      <webElementGuid>6739ae90-4c31-4819-91a9-ff2fb896513e</webElementGuid>
+      <webElementGuid>c3374fbe-d87e-4192-8b7d-c903d0357ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Alertial 180:</value>
-      <webElementGuid>d7ae9682-5f3e-49f4-a53d-d5037dbab69f</webElementGuid>
+      <webElementGuid>8e809324-ad5c-4421-b6f3-6bce7d9099c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;features&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-md-12 mb-sm-30&quot;]/div[@id=&quot;info_productos&quot;]/span[@class=&quot;col-md-6 mb-3&quot;]/p[@class=&quot;large&quot;]/span[1]/em[2]</value>
-      <webElementGuid>9f3b96e3-871a-4fc7-a305-4b6291cd5391</webElementGuid>
+      <webElementGuid>2f54c8a6-b15f-4396-859a-fe98fa42cbb8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='info_productos']/span/p/span/em[2]</value>
-      <webElementGuid>7eeabb8f-5329-4aa7-9583-3209e56ca57b</webElementGuid>
+      <webElementGuid>ca6ba535-5165-41e8-896c-58a768fa6b1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertial 120:'])[1]/following::em[1]</value>
-      <webElementGuid>d9feb983-92e9-409c-ac77-2699ae101a8e</webElementGuid>
+      <webElementGuid>2a8daa1c-054b-41af-a1dd-48019d3a8428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FORMULA:'])[2]/following::em[2]</value>
-      <webElementGuid>6c32e960-3a5d-4110-b7e0-e57c4753c0a3</webElementGuid>
+      <webElementGuid>e918d332-65e7-4a3d-935a-90ef71d31fd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PRESENTACION:'])[2]/preceding::em[1]</value>
-      <webElementGuid>07dc8e0d-7d7f-4c37-81dd-0ff861096c5b</webElementGuid>
+      <webElementGuid>690001b1-8729-450c-941a-2b93a47e8861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertial 120:'])[2]/preceding::em[1]</value>
-      <webElementGuid>1eefcf3c-56d9-4543-bc21-1bb522ee4f4b</webElementGuid>
+      <webElementGuid>0ca20091-e4eb-41c3-a1b6-09f5850b7343</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Alertial 180:']/parent::*</value>
-      <webElementGuid>3db72634-14c5-4e1b-9b94-8daf63d8fcb5</webElementGuid>
+      <webElementGuid>29fab961-2a3b-465a-84ca-aa60dc940b99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//em[2]</value>
-      <webElementGuid>df866940-1447-4b58-87ef-4d26c5cb0797</webElementGuid>
+      <webElementGuid>7c56beeb-d8a5-4a1a-abca-25f0eebaaab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//em[(text() = 'Alertial 180:' or . = 'Alertial 180:')]</value>
-      <webElementGuid>5659959a-dc89-4a6a-9d19-016430474766</webElementGuid>
+      <webElementGuid>cc37dc50-4f15-4674-ab5c-d93d87488e4e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
