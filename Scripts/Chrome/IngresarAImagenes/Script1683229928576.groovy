@@ -76,7 +76,7 @@ WebUI.verifyMatch(imagenProducto, textoImagenProducto, false)
 
 WebUI.delay(2)
 
-WebUI.selectOptionByValue(findTestObject('Chrome/CargaImagen/TipoImagen'), '6', false)
+WebUI.selectOptionByValue(findTestObject('Chrome/CargaImagen/TipoImagen'), '3', false)
 
 WebUI.delay(2)
 
