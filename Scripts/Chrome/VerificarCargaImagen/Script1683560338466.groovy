@@ -36,7 +36,9 @@ WebUI.click(findTestObject('Object Repository/Chrome/VerificarCargaImagen/Page_B
 
 WebUI.scrollToElement(findTestObject('Chrome/VerificarCargaImagen/Page_Baliarda S.A. - Productos/em_Alertial 180'), 5)
 
-WebUI.takeFullPageScreenshotAsCheckpoint('imagenProbar')
+WebUI.delay(2)
+
+WebUI.takeElementScreenshotAsCheckpoint('imagenProbar', findTestObject('Chrome/VerificarCargaImagen/Page_Baliarda S.A. - Productos/ImagenDirectamente'))
 
 WebUI.delay(7)
 
