@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//div[contains(@class,'owl-item')])[2]</value>
+         <value>//body/div[@id='page-wraper']/section[@id='features']/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/img[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
