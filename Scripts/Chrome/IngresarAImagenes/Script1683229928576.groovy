@@ -26,6 +26,8 @@ WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(20)
 
+WebUI.delay(4)
+
 def cmd = new String [3]
 
 cmd[0] = "C:\\login.exe"
@@ -34,7 +36,7 @@ cmd [2] = "EcoBal*00"
 
 Runtime.getRuntime().exec(cmd)
 
-WebUI.delay(30)
+WebUI.delay(4)
 
 WebUI.selectOptionByValue(findTestObject('Chrome/CargaImagen/ComboPais'), '4', false)
 

@@ -25,6 +25,13 @@ WebUI.waitForPageLoad(10)
 
 WebUI.maximizeWindow()
 
+def cmd = new String [3]
+
+cmd[0] = "C:\\login.exe"
+cmd [1] = "BALIARDA\\ecosistemas"
+cmd [2] = "EcoBal*00"
+
+Runtime.getRuntime().exec(cmd)
 WebUI.delay(30)
 
 WebUI.click(findTestObject('Chrome/CargaImagen/ComboPais'))
