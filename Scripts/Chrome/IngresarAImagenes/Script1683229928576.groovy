@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 WebUI.openBrowser('')
 
@@ -24,6 +25,14 @@ WebUI.navigateToUrl('http://srv-wtest/adminsitiobal2.1/')
 WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(20)
+
+def cmd = new String [3]
+
+cmd[0] = "C:\\login.exe"
+cmd [1] = "BALIARDA\\ecosistemas"
+cmd [2] = "EcoBal*00"
+
+Runtime.getRuntime().exec(cmd)
 
 WebUI.delay(30)
 
@@ -65,7 +74,7 @@ WebUI.verifyMatch(imagenProducto, textoImagenProducto, false)
 
 WebUI.delay(2)
 
-WebUI.selectOptionByValue(findTestObject('Chrome/CargaImagen/TipoImagen'), '3', false)
+WebUI.selectOptionByValue(findTestObject('Chrome/CargaImagen/TipoImagen'), '6', false)
 
 WebUI.delay(2)
 
