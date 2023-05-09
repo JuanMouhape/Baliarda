@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h3[contains(text(),'Alertial')]</value>
+         <value>/html[1]/body[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[3]/span[1]/p[1]/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>em</value>
-      <webElementGuid>649b7b15-e82c-4ab7-90b4-453f0b95c28b</webElementGuid>
+      <webElementGuid>b9d4b254-4fdb-42bb-ac84-499276282c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Alertial 180:</value>
-      <webElementGuid>16572f21-af30-4f6a-a4f5-3100dc1be16e</webElementGuid>
+      <webElementGuid>52764e98-7f23-494a-9c2e-f3ed1ec5bb81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;features&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-md-12 mb-sm-30&quot;]/div[@id=&quot;info_productos&quot;]/span[@class=&quot;col-md-6 mb-3&quot;]/p[@class=&quot;large&quot;]/span[1]/em[2]</value>
-      <webElementGuid>36e229a4-9106-40aa-ab98-00618e56a39a</webElementGuid>
+      <webElementGuid>abf7a670-b75d-42be-b788-12adc778ff32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='info_productos']/span/p/span/em[2]</value>
-      <webElementGuid>6a33f262-c464-4270-b3ec-47dbbab4207d</webElementGuid>
+      <webElementGuid>ff3a4d9b-53cf-48ea-9488-cb43d860b31c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertial 120:'])[1]/following::em[1]</value>
-      <webElementGuid>1e52faae-1f7e-43f3-81ec-fe7ddaec00b8</webElementGuid>
+      <webElementGuid>b4504e64-f90f-4ef9-948e-d797842f3d0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FORMULA:'])[2]/following::em[2]</value>
-      <webElementGuid>1ab224a2-8e69-4a71-891d-1a05e5491ca0</webElementGuid>
+      <webElementGuid>90333da7-c3b5-487e-8f2f-50f3dbc1d44e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PRESENTACION:'])[2]/preceding::em[1]</value>
-      <webElementGuid>e491dd77-d441-4eeb-bd30-a7fc5c2c0610</webElementGuid>
+      <webElementGuid>9b24180b-624c-43af-8883-7470445b7c28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertial 120:'])[2]/preceding::em[1]</value>
-      <webElementGuid>fef9d348-c84f-4428-a9ff-9fa9171e74ae</webElementGuid>
+      <webElementGuid>3384f945-04b5-4aa2-9c6c-972c986fd221</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Alertial 180:']/parent::*</value>
-      <webElementGuid>c7aa0e35-0b49-44cb-8a69-c1368b22b245</webElementGuid>
+      <webElementGuid>63774e83-eaa5-4a30-849f-e618c4ed239d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//em[2]</value>
-      <webElementGuid>72d0b172-a33a-41dc-aaed-22ceb996ebbc</webElementGuid>
+      <webElementGuid>45963e61-587a-4db8-bd11-0443989e54d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//em[(text() = 'Alertial 180:' or . = 'Alertial 180:')]</value>
-      <webElementGuid>0e56e6f5-f089-4d2f-b91c-048ac249af69</webElementGuid>
+      <webElementGuid>a651797a-4dc8-46cf-9075-182789ae6577</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

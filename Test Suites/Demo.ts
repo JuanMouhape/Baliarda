@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>51ce4060-b8b1-4e17-a2c2-44c50cb28024</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Chrome/IngresarAImagenes</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>

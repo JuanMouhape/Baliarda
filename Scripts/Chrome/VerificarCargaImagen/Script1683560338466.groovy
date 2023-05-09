@@ -38,6 +38,10 @@ WebUI.scrollToElement(findTestObject('Chrome/VerificarCargaImagen/Page_Baliarda 
 
 WebUI.takeScreenshotAsCheckpoint('imagenComparadora')
 
+WebUI.takeFullPageScreenshotAsCheckpoint('imagenProbar')
+
+WebUI.takeElementScreenshotAsCheckpoint('checkImagen', findTestObject('Chrome/VerificarCargaImagen/Page_Baliarda S.A. - Productos/ImagenDirectamente'))
+
 WebUI.delay(7)
 
 WebUI.closeBrowser()
