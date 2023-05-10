@@ -77,7 +77,7 @@
       <name>archivoASubir</name>
    </variable>
    <variable>
-      <defaultValue>'Alertial-prueba.png'</defaultValue>
+      <defaultValue>'Alertial.png'</defaultValue>
       <description></description>
       <id>183c259f-679a-4ee1-9d08-fab00bbde83c</id>
       <masked>false</masked>

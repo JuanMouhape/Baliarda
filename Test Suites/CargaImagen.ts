@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Demo</name>
+   <name>CargaImagen</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>fedde2bb-1ba5-40d2-bb1f-9ac7dad4b4b0</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>45e7258d-2a50-48f2-9dfc-36bf18801321</testSuiteGuid>
    <testCaseLink>
-      <guid>51ce4060-b8b1-4e17-a2c2-44c50cb28024</guid>
+      <guid>47a5cd03-7e15-4a88-8709-f1ce4fb2d85a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Chrome/IngresarAImagenes</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -53,12 +53,5 @@
          <value></value>
          <variableId>183c259f-679a-4ee1-9d08-fab00bbde83c</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0757b99e-3824-4f46-b8c6-c12823e664c5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Chrome/VerificarCargaImagen</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
