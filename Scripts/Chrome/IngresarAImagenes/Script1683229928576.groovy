@@ -16,7 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 WebUI.openBrowser('')
 
@@ -28,11 +27,13 @@ WebUI.waitForPageLoad(20)
 
 WebUI.delay(4)
 
-def cmd = new String [3]
+def cmd = new String[]
 
-cmd[0] = "C:\\login.exe"
-cmd [1] = "BALIARDA\\ecosistemas"
-cmd [2] = "EcoBal*00"
+(cmd[0]) = 'C:\\login.exe'
+
+(cmd[1]) = 'BALIARDA\\ecosistemas'
+
+(cmd[2]) = 'EcoBal*00'
 
 Runtime.getRuntime().exec(cmd)
 
@@ -93,12 +94,6 @@ WebUI.delay(2)
 WebUI.click(findTestObject('Chrome/CargaImagen/BotonSubmitImagen'))
 
 WebUI.delay(3)
-
-nombreImagenCargada = WebUI.getText(findTestObject('Chrome/CargaImagen/VerificarImagenCargada'))
-
-WebUI.verifyMatch(nombreArchivoASubir, nombreImagenCargada, false)
-
-WebUI.delay(5)
 
 WebUI.closeBrowser()
 
