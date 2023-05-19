@@ -27,7 +27,7 @@ WebUI.waitForPageLoad(20)
 
 WebUI.delay(4)
 
-def cmd = new String[]
+def cmd = new String[3]
 
 (cmd[0]) = 'C:\\login.exe'
 
@@ -55,9 +55,9 @@ productos = WebUI.getText(findTestObject('Chrome/CargaImagen/TxtVerificacionProd
 
 WebUI.verifyMatch(productos, textoListadoProductos, false)
 
-WebUI.click(findTestObject('Chrome/CargaImagen/BotonAcciones'))
+WebUI.click(findTestObject('Chrome/CargaImagen/BotonAcciones2'))
 
-WebUI.click(findTestObject('Chrome/CargaImagen/BotonImagenes'))
+WebUI.click(findTestObject('Chrome/CargaImagen/BotonImagenes2'))
 
 WebUI.waitForPageLoad(10)
 
@@ -85,7 +85,7 @@ nombreCompletoImagen = (archivoASubir + nombreArchivoASubir)
 
 WebUI.uploadFile(findTestObject('Chrome/CargaImagen/BotonExaminar'), nombreCompletoImagen)
 
-WebUI.delay(3)
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Chrome/CargaImagen/InputOrden'), '1')
 
@@ -93,7 +93,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Chrome/CargaImagen/BotonSubmitImagen'))
 
-WebUI.delay(1)
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 

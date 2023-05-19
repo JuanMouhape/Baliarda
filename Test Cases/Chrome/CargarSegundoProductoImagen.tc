@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>IngresarAImagenes</name>
+   <name>CargarSegundoProductoImagen</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d4093eea-ed11-40b0-bc82-bb11fea6a303</testCaseGuid>
+   <testCaseGuid>d6300dd3-e64d-4b94-9f5f-10b70216b7fc</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>4b615c95-528a-4326-917e-c0cc3c816539</variableId>
+      <variableId>a32edb5d-f62f-41f8-905a-f18175fadf75</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>727d71d9-2271-4034-937d-094e90c0634e</variableId>
+      <variableId>ff2f54d5-d07e-4f72-a528-ea35e5b7d2f4</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>ce888932-5c0a-4496-a2af-50eb116b19a2</variableId>
+      <variableId>b89b9246-3e6f-4d1e-8f8c-963d2de0df56</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5346ee5f-d9be-4f32-84ee-0a5c4e0d337a</variableId>
+      <variableId>9abb93f8-f112-4c38-8aeb-dd2df61dcf06</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>03add124-8c44-426e-b07f-03c31bdaff2e</variableId>
+      <variableId>437de5d0-eacc-4d03-a26a-f2619b234a2a</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>183c259f-679a-4ee1-9d08-fab00bbde83c</variableId>
+      <variableId>4292dd09-b71b-427f-bc62-68b350b0ea58</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'Listado de Imágenes'</defaultValue>
       <description></description>
-      <id>4b615c95-528a-4326-917e-c0cc3c816539</id>
+      <id>a32edb5d-f62f-41f8-905a-f18175fadf75</id>
       <masked>false</masked>
       <name>textoListadoImagenes</name>
    </variable>
    <variable>
       <defaultValue>'Listado de Productos'</defaultValue>
       <description></description>
-      <id>727d71d9-2271-4034-937d-094e90c0634e</id>
+      <id>ff2f54d5-d07e-4f72-a528-ea35e5b7d2f4</id>
       <masked>false</masked>
       <name>textoListadoProductos</name>
    </variable>
    <variable>
       <defaultValue>'Crear'</defaultValue>
       <description></description>
-      <id>ce888932-5c0a-4496-a2af-50eb116b19a2</id>
+      <id>b89b9246-3e6f-4d1e-8f8c-963d2de0df56</id>
       <masked>false</masked>
       <name>textoCrearImagen</name>
    </variable>
    <variable>
       <defaultValue>'Imagen de Producto'</defaultValue>
       <description></description>
-      <id>5346ee5f-d9be-4f32-84ee-0a5c4e0d337a</id>
+      <id>9abb93f8-f112-4c38-8aeb-dd2df61dcf06</id>
       <masked>false</masked>
       <name>textoImagenProducto</name>
    </variable>
    <variable>
       <defaultValue>'C:\\'</defaultValue>
       <description></description>
-      <id>03add124-8c44-426e-b07f-03c31bdaff2e</id>
+      <id>437de5d0-eacc-4d03-a26a-f2619b234a2a</id>
       <masked>false</masked>
       <name>archivoASubir</name>
    </variable>
    <variable>
-      <defaultValue>'Alertial-prueba.png'</defaultValue>
+      <defaultValue>'Andertil-prueba.png'</defaultValue>
       <description></description>
-      <id>183c259f-679a-4ee1-9d08-fab00bbde83c</id>
+      <id>4292dd09-b71b-427f-bc62-68b350b0ea58</id>
       <masked>false</masked>
       <name>nombreArchivoASubir</name>
    </variable>
